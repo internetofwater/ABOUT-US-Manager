@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "NC0446020",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "PWSID": "04-46-020", "SystemName.x": "Winton_Town_Of", "SystemName.y": "WINTON, TOWN OF", "County": "Hertford", "usable_raw_data": "Y", "final_shapefile": "Y", "Source": "CWSProvided", "Owner_Type": "L", "SysType": "Place", "ImageType": "PDF", "over500": "Y", "different_coverage": "Y", "SourceType": "Service_Area", "AreaType": "Service_Area_Extent", "EPA_PWSID": "NC0446020" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -76.935614082516608, 36.403350060872974 ], [ -76.935612983156801, 36.403392789269901 ], [ -76.92821866696481, 36.398950785201706 ], [ -76.921352300938693, 36.396611870901246 ], [ -76.931874491100658, 36.384307347448264 ], [ -76.927311450130063, 36.378801445149819 ], [ -76.938688459904228, 36.374248049955568 ], [ -76.95102295314841, 36.383901756449013 ], [ -76.949074020084169, 36.387759212106104 ], [ -76.95298198762319, 36.390004545935206 ], [ -76.950161011582324, 36.399019855167744 ], [ -76.940685337832264, 36.395313278600149 ], [ -76.935614082516608, 36.403350060872974 ] ] ] ] } }
+]
+}
